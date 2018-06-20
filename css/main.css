@@ -53,7 +53,49 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+    font-size: 14px;
+    font-family: Arial;
+}
 
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 28px;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.menu-list__list-fullwidth{
+    width: 100%;
+    clear: both;
+}
+.menu-card__list-mb-float-let{
+    margin-bottom: 7px;
+    float: left;
+}
+.menu-header{
+    background-color: #002464;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.img-logo {
+  object-fit: none;
+  object-position: 0 0;
+  width: 200px;
+  height: 40px;
+}
+.menu-header .menu-header__navbar_button-action{
+    outline: none;
+}
+.menu-header__navbar_icon-menu{
+    width: 28px;
+}
 
 
 
