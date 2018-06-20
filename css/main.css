@@ -70,6 +70,14 @@ h3{
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
 }
+.menu-list__list-fullwidth{
+    width: 100%;
+    clear: both;
+}
+.menu-card__list-mb-float-let{
+    margin-bottom: 7px;
+    float: left;
+}
 .menu-header{
     background-color: #002464;
     padding-top: 5px;
